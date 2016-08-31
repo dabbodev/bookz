@@ -17,6 +17,7 @@ import login from './login';
 import register from './register';
 import content from './content';
 import error from './error';
+import read from './read';
 
 export default {
 
@@ -29,6 +30,7 @@ export default {
     login,
     register,
 
+    read,
     // place new routes before...
     content,
     error,

@@ -19,7 +19,7 @@ function Header() {
       <div className={s.container}>
         <Navigation className={s.nav} />
         <Link className={s.brand} to="/">          
-          <span className={s.brandTxt}>Light Novels</span>
+          <span className={s.brandTxt}>Light Novels Online</span>
         </Link>
       </div>
     </div>
