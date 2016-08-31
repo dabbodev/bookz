@@ -25,12 +25,12 @@ export const analytics = {
 
 export const auth = {
 
-  jwt: { secret: process.env.JWT_SECRET || 'React Starter Kit' },
+  jwt: { secret: process.env.JWT_SECRET || 'Suck a dick steve jobs' },
 
   // https://developers.facebook.com/
   facebook: {
-    id: process.env.FACEBOOK_APP_ID || '186244551745631',
-    secret: process.env.FACEBOOK_APP_SECRET || 'a970ae3240ab4b9b8aae0f9f0661c6fc',
+    id: process.env.FACEBOOK_APP_ID || '1588372691467888',
+    secret: process.env.FACEBOOK_APP_SECRET || '629f0731e10f45f05c62210eba0a5caa',
   },
 
   // https://cloud.google.com/console/project
